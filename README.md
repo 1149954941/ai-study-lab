@@ -20,11 +20,13 @@
 ### 1. [Odin's Eye](https://github.com/1149954941/my-project)  
 ![Odin's Eye Banner](docs/banner.png)
 
-**Description:** 奥丁之眼 (Odin's Eye) 是一个专注于云原生技术和系统监控的开源项目。  
+**Description:**  
+奥丁之眼 (Odin's Eye) 是一个专注于云原生技术和系统监控的开源项目，旨在提供高效、可靠的解决方案。  
 
 **Features:**
 - 高性能系统监控与日志分析  
 - 模块化扩展，便于二次开发  
+- 简单易用，快速上手  
 
 **Installation & Run:**
 ```bash
