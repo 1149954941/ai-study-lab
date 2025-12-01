@@ -2,6 +2,10 @@
 
 ![Odin's Eye Banner](docs/banner.png)
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Go Version](https://img.shields.io/badge/Go-1.21-blue.svg)]()
+[![Last Commit](https://img.shields.io/github/last-commit/1149954941/my-project)]()
+
 ---
 
 ## Project Overview
@@ -34,8 +38,8 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/xioabaibai/OdinEye.git
-cd OdinEye
+git clone https://github.com/1149954941/my-project.git
+cd my-project
 
 # 安装依赖
 go mod tidy
