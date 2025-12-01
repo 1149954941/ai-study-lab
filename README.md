@@ -23,4 +23,4 @@
 ---
 
 ## 📂 项目结构
-feat: add Newton's first law study note
+- [牛顿第一定律学习笔记](notes/physics_newton_first_law.md)
