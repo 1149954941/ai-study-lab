@@ -18,3 +18,6 @@
 - [Weekly Reflections](https://github.com/1149954941/ai-study-lab/blob/main/weekly-reflection.md) – How I'm improving  
 
 > 🌱 Let's build the future of learning together!
+![GitHub repo size](https://img.shields.io/github/repo-size/1149954941/ai-study-lab)
+![License](https://img.shields.io/github/license/1149954941/ai-study-lab)
+![Last commit](https://img.shields.io/github/last-commit/1149954941/ai-study-lab)
